@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paul @Nyandago
-- 👀 I’m interested in Game development with Unity, and Electronics Circuit designing
-- 🌱 I’m currently learning App development both web and mobile Apps
-- 💞️ I’m looking forward to collaborate on App Development
+- 👀 I’m interested in Game development with Unity, and IOT and Embedded Electronics
+- 🌱 I’m currently learning App development with Kotlin
+- 💞️ I’m looking forward to collaborate on App Development with Kotlin
 - 📫 How to reach me, Contact me via my Email address >>> paulo@cannybits.com
 
 <!---
