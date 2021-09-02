@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul James @Nyandago
-- 👀 I’m interested in Game development with Unity, Android App Dev, IoT and Embedded Electronics
+- 👀 I’m interested in Game development with Unity, Android App Development, IoT and Embedded Electronics
 - 🌱 I’m currently learning App development with Kotlin, Mapping my journey on my twitter acccount via 100 days of Code Challenge
 - 💞️ I’m looking forward to collaborate on App Development with Kotlin
 - 📫 How to reach me, Contact me via my Email address >>> paulo@cannybits.com
