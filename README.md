@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Paul Nyandago (a.k.a. Canny Junior)</h1>
+
+<div align="center">
+
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=25&center=true&lines=Hi!+👋+I+am+Paul+Nyandago)](https://git.io/typing-svg)
+
+</br>
+
+</div>
 <p>
 - 👀 I’m interested in Game development with Unity, Android App Development, IoT and Embedded Electronics
 </p>
