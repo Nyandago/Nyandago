@@ -7,6 +7,19 @@
 - My Instagram Page : www.instagram.com/cannybit ,
 - My facebook Page: www.facebook.com/CannyBits255
 
+## GitHub Stats
+
+</br>
+
+</div>
+  
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nyandago&show_icons=true&theme=synthwave" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyandago&theme=synthwave" />
+
+</p>
+
 <!---
 Nyandago/Nyandago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
