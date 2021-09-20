@@ -1,11 +1,24 @@
-- 👋 Hi, I’m Paul James @Nyandago
+<h1 align="center">Hi 👋, I'm Paul Nyandago (a.k.a. Canny Junior)</h1>
+<p>
 - 👀 I’m interested in Game development with Unity, Android App Development, IoT and Embedded Electronics
+</p>
+<p>
 - 🌱 I’m currently learning App development with Kotlin, Mapping my journey on my twitter acccount via 100 days of Code Challenge
+</p>
+<p>
 - 💞️ I’m looking forward to collaborate on App Development with Kotlin
-- 📫 How to reach me, Contact me via my Email address >>> paulo@cannybits.com
-- My Twitter account : www.twitter.com/CannyBits ,
-- My Instagram Page : www.instagram.com/cannybit ,
-- My facebook Page: www.facebook.com/CannyBits255
+</p>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.cannybits.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Canny Bits" height="30" width="40" /></a>
+<a href="https://twitter.com/CannyBits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Canny Bits" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/paul-james-nyandago-461870131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-james-nyandago-461870131" height="30" width="40" /></a>
+<a href="https://fb.com/cannybits255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="CannyBits255" height="30" width="40" /></a>
+<a href="https://instagram.com/cannybit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cannyBit" height="30" width="40" /></a>
+</p>
 
 ## GitHub Stats
 
