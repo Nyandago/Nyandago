@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=25&center=true&lines=Hi!+👋+I+am+Paul+Nyandago)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&lines=Hi!+👋+I+am+Paul+Nyandago)](https://git.io/typing-svg)
 
 </br>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Nyandago alt=Nyandago/> </p>
