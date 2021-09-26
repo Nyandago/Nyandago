@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning App development with Kotlin, Mapping my journey on my twitter acccount via 100 days of Code Challenge
 </p>
 <p>
-- 💞️ I’m looking forward to collaborate on App Development with Kotlin
+- 💞️ I’m looking forward to collaborate on Android App Development with Kotlin
 </p>
 
 
