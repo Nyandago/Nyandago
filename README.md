@@ -10,10 +10,10 @@
 - 👀 I am interested in Game development with Unity, Android App Development, IoT and Embedded Electronics
 </p>
 <p>
-- 🌱 I am currently learning App development with Kotlin, mapping my journey on my twitter acccount via 100 days of Code Challenge
+- 🌱 I am currently learning Android App development with Kotlin, mapping my journey on my twitter acccount via 100 days of Code Challenge
 </p>
 <p>
-- 💞️ I am looking forward to collaborate on Android App Development with Kotlin
+- 💞️ I am looking forward to collaborate on Android App Development
 </p>
 
 
