@@ -7,7 +7,7 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Nyandago alt=Nyandago/> </p>
 </div>
 <p>
-- 👀 I am interested in Game development with Unity, Android App Development, IoT and Embedded Electronics
+- 👀 I am interested in Game development [Unity], Android App Development [Kotlin/Flutter] , IoT and Embedded Electronics
 </p>
 <p>
 - 🌱 I am currently learning Android App development with Kotlin, mapping my journey on my twitter acccount via 100 days of Code Challenge
