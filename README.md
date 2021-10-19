@@ -10,7 +10,7 @@
 - 👀 I'm interested in Game development [Unity], Android App Development [Kotlin/Flutter], Cloud Computing [Azure], IoT and Embedded Electronics
 </p>
 <p>
-- 🌱 I'm currently learning Android App development with Kotlin, mapping my journey on my twitter acccount via 100 days of Code Challenge
+- 🌱 I'm currently learning Android App development with Kotlin, mapping my journey on my twitter acccount [ @CannyBits ] via 100 days of Code Challenge
 </p>
 <p>
 - 💞️ I'm looking forward to collaborate on Android App Development with Kotlin
