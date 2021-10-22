@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left">Connect With Me</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.cannybits.com" target="blank"><img align="center" src="https://github.com/Keyamoon/IcoMoon-Free/blob/master/SVG/203-earth.svg" alt="Canny Bits" height="30" width="40" /></a>
 <a href="https://twitter.com/CannyBits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Canny Bits" height="30" width="40" /></a>
