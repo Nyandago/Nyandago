@@ -7,13 +7,13 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Nyandago alt=Nyandago/> </p>
 </div>
 <p>
-- 👀 I'm interested in Game development with Unity, Android App Development [Kotlin/Flutter], Cloud Computing [Azure], IoT (Internet of Things) and Embedded Electronics
+ 👀 I'm interested in Game development with Unity, Android App Development [Kotlin/Flutter], Cloud Computing [Azure], IoT (Internet of Things) and Embedded Electronics
 </p>
 <p>
-- 🌱 I'm currently learning Android App development with Kotlin, mapping my journey on my twitter acccount [ @CannyBits ] via 100 days of Code Challenge 🌱
+ 🌱 I'm currently learning Android App development with Kotlin, mapping my journey on my twitter acccount [ @CannyBits ] via 100 days of Code Challenge 🌱
 </p>
 <p>
-- 💞️ I'm looking forward to collaborate on Android App Development with Kotlin 💞️
+ 💞️ I'm looking forward to collaborate on Android App Development with Kotlin 💞️
 </p>
 
 
