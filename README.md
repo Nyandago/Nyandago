@@ -13,7 +13,7 @@
  🌱 I'm currently learning Android App development with Kotlin and Flutter, mapping my journey on my twitter acccount [ @CannyBits ] via 100 days of Code Challenge 🌱
 </p>
 <p>
- 💞️ I'm looking forward to collaborate on Android App Development with Kotlin 💞️
+ 💞️ I am looking forward to collaborate on Android App Development with Kotlin 💞️
 </p>
 
 
