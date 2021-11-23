@@ -7,7 +7,7 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Nyandago alt=Nyandago/> </p>
 </div>
 <p>
- 👀 I'm interested in Game development with Unity, Mobile App Development [Kotlin/Flutter], Cloud Computing with Microsoft Azure, IoT (Internet of Things) and Embedded Electronics
+ 👀 I'm interested in Mobile App Development [Kotlin/Flutter], Game development with Unity, Cloud Computing with Microsoft Azure, IoT (Internet of Things) and Embedded Electronics
 </p>
 <p>
  🌱 I'm currently learning Android App development with Kotlin and Flutter, mapping my journey on my twitter acccount [ @CannyBits ] via 100 days of Code Challenge 🌱
