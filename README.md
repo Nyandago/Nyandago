@@ -10,7 +10,7 @@
  👀 I'm interested in Mobile App Development [Kotlin/Flutter], Game development with Unity, Cloud Computing with Microsoft Azure, IoT (Internet of Things) and Embedded Electronics
 </p>
 <p>
- 🌱 I'm mapping my tech journey on my <a href="https://twitter.com/CannyBits" target="blank"> Twitter <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Canny Bits" height="15" width="15" /> @CannyBits</a> and <a href="https://instagram.com/cannybit" target="blank">Instagram <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cannyBit" height="15" width="15" /> @cannyBit</a> 
+ 🌱 I'm mapping my tech journey on <a href="https://twitter.com/CannyBits" target="blank"> Twitter <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Canny Bits" height="15" width="15" /> @CannyBits</a> and <a href="https://instagram.com/cannybit" target="blank">Instagram <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cannyBit" height="15" width="15" /> @cannyBit</a> 
 </p>
 <p>
  💞️ I'm looking forward to collaborate on Android App Development with Kotlin 💞️
