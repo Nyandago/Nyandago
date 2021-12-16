@@ -13,7 +13,7 @@
  🌱 I'm mapping my tech journey on <a href="https://twitter.com/CannyBits" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Canny Bits" height="15" width="15" /> Twitter: @CannyBits</a> and <a href="https://instagram.com/cannybit" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cannyBit" height="15" width="15" /> Instagram: @cannyBit</a> 
 </p>
 <p>
- 💞️ I'm looking forward to collaborate on Android App Development with Kotlin 💞️
+ 💞️ I am looking forward to collaborate on Mobile App Development with Kotlin 💞️
 </p>
 
 
@@ -48,7 +48,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyandago&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-<!---
-Nyandago/Nyandago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
