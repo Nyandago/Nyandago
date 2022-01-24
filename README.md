@@ -7,13 +7,13 @@
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=Nyandago alt=Nyandago/> </p>
 </div>
 <p>
- 👀 I am interested in Mobile App Development, Game development with Unity Engine, Cloud Computing, Web Development, IoT (Internet of Things) and Embedded Electronics
+ 👀 I'm interested in Mobile App Development, Game development with Unity Engine, Cloud Computing, Web Development, IoT (Internet of Things) and Embedded Electronics
 </p>
 <p>
- 🌱 I am mapping my tech journey on <a href="https://twitter.com/CannyBits" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Canny Bits" height="15" width="15" /> Twitter: @CannyBits</a> and <a href="https://instagram.com/cannybit" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cannyBit" height="15" width="15" /> Instagram: @cannyBit</a> 
+ 🌱 I'm mapping my tech journey on <a href="https://twitter.com/CannyBits" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Canny Bits" height="15" width="15" /> Twitter: @CannyBits</a> and <a href="https://instagram.com/cannybit" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cannyBit" height="15" width="15" /> Instagram: @cannyBit</a> 
 </p>
 <p>
- 💞️ I am looking forward to collaborate on Web and Mobile App Development 💞️
+ 💞️ I'm looking forward to collaborate on Web and Mobile App Development 💞️
 </p>
 
 
