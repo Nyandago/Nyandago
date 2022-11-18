@@ -13,7 +13,7 @@
  🌱 I'm mapping my tech journey on <a href="https://twitter.com/CannyBits" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Canny Bits" height="15" width="15" /> Twitter: @CannyBits</a> and <a href="https://instagram.com/cannybit" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cannyBit" height="15" width="15" /> Instagram: @cannyBit</a> 
 </p>
 <p>
- 💞️ I'm looking forward to collaborate on Web and Mobile App Development 💞️
+ 💞️ I'm looking forward to collaborate on Web and Mobile Apps Development 💞️
 </p>
 
 
