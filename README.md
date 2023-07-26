@@ -10,7 +10,7 @@
  👀 I'm interested in Web and Mobile App development, Game development, Cloud Computing, IoT (Internet of Things) and Embedded electronics
 </p>
 <p>
- 🌱 I'm mapping my tech journey on <a href="https://twitter.com/CannyBits" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Canny Bits" height="15" width="15" /> Twitter: @CannyBits</a> and <a href="https://instagram.com/cannybit" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cannyBit" height="15" width="15" /> Instagram: @cannyBit</a> 
+ 🌱 I'm mapping my tech journey on <a href="https://twitter.com/CannyBits" target="blank">  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Canny Bits" height="15" width="15" /> Twitter: @CannyBits</a> and <a href="https://instagram.com/canny.tz" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canny.tz" height="15" width="15" /> Instagram: @canny.tz</a> 
 </p>
 <p>
  💞️ I'm looking forward to collaborate on Web and Mobile Apps Development 💞️
