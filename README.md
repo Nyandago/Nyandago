@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://www.cannybits.com" target="blank"><img align="center" src="https://github.com/Keyamoon/IcoMoon-Free/blob/master/SVG/203-earth.svg" alt="Canny Bits" height="30" width="40" /></a>
+<a href="https://www.canny.tz" target="blank"><img align="center" src="https://github.com/Keyamoon/IcoMoon-Free/blob/master/SVG/203-earth.svg" alt="Canny Bits" height="30" width="40" /></a>
 <a href="https://twitter.com/CannyBits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Canny Bits" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/paul-james-nyandago-461870131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-james-nyandago-461870131" height="30" width="40" /></a>
 <a href="https://fb.com/cannybits255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="CannyBits255" height="30" width="40" /></a>
