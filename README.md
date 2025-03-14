@@ -57,12 +57,10 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nyandago&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyandago&theme=radical" />
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nyandago&show_icons=true&theme=synthwave" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyandago&theme=synthwave" />
+</p>
 
 ### 🚀 Top Languages  
 
