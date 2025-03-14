@@ -1,65 +1,77 @@
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0585ed&size=25&center=true&lines=Hi!+👋+I+am+Paul+Nyandago)](https://git.io/typing-svg)
+# 👋 Hi, I'm Paul Nyandago!  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0585ed&size=25&center=true&lines=AI+%7C+Mobile+%7C+Web)](https://git.io/typing-svg)  
 
-</br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nyandago&style=flat-square&color=blue" alt="Profile Views"/> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=Nyandago&color=blue)
 
 </div>
 
-## 👨‍💻 About Me  
-- 👀 I'm interested in **Artificial Intelligence, Blockchain, Web & Mobile Development, Cloud Computing, IoT, and Embedded Electronics.**  
-- 🌱 I'm mapping my tech journey on:  
-  - 🐦 [**Twitter (X): @CannyBits**](https://twitter.com/CannyBits)  
-  - 📸 [**Instagram: @canny.tz**](https://instagram.com/canny.tz)  
-- 💞️ I'm looking forward to collaborating on **Blockchain and AI Apps development.**  
+---
+
+## 🚀 About Me  
+- 👀 Passionate about **AI, Blockchain, Web & Mobile Development, Cloud, IoT & Embedded Systems**  
+- 🌱 Documenting my tech journey on **[X (Twitter)](https://twitter.com/CannyBits)** & **[Instagram](https://instagram.com/canny.tz)**
+- 💡 Open to collaboration on **Web & Mobile App Development**  
+- 🌍 Checkout my work at **[Canny.tz](https://www.canny.tz)**  
 
 ---
 
-## 🔗 Connect with Me  
-<p align="left">
-<a href="https://www.canny.tz" target="blank"><img align="center" src="https://github.com/Keyamoon/IcoMoon-Free/blob/master/SVG/203-earth.svg" alt="Canny Bits" height="30" width="40" /></a>
-<a href="https://twitter.com/CannyBits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Canny Bits" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/paul-james-nyandago-461870131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/cannybits255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/canny.tz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+## 🛠 Tech Stack  
 
----
+### 🌐 **Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<!--![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)-->
 
-## ⚡ Technologies & Tools  
-<p align="left">
-<a href="https://linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-<a href="https://unity.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></a>
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>
-<a href="http://oracle.com/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-</p>
+### 💻 **Backend**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
----
+### ☁ **Cloud & DevOps**  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🚀 Current Projects  
-- 🔗 **Blockchain in Supply Chain Management** – [DApp for tracking goods](#)  
-- 🔗 **AI Assistant with Rasa** – [NLP-based chatbot](#)  
+### ⚙ **Other Tools & Platforms**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats  
-</br>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nyandago&show_icons=true&theme=synthwave" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyandago&theme=synthwave" />
-</p>
 
-</br>
+<div align="center">
 
-### 📌 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyandago&layout=compact&langs_count=7&theme=synthwave"/>
-</p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nyandago&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyandago&theme=radical" />
+
+</div>
+
+### 🚀 Top Languages  
+
+<div align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyandago&layout=compact&langs_count=7&theme=radical"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect!  
+**📧 Email:** [info@canny.tz](mailto:info@canny.tz)  
+🔗 **Socials:**  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CannyBits)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-james-nyandago-461870131/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/canny.tz)  
+[![Website](https://img.shields.io/badge/Website-333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.canny.tz)  
+
+---
+
+🚀 **Always learning, always building. Let's innovate together!** 🎯  
