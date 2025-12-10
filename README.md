@@ -57,18 +57,17 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nyandago&show_icons=true&theme=synthwave" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nyandago&theme=synthwave" />
-</p>
-
-### 🚀 Top Languages  
-
 <div align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyandago&layout=compact&langs_count=7&theme=radical"/>
+![](https://github-readme-stats.vercel.app/api?username=Nyandago&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyandago&layout=donut&theme=tokyonight&hide_border=true&langs_count=10)
+
+<!-- Optional: Streak stats (looks amazing) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nyandago&theme=tokyonight&hide_border=true)
 
 </div>
+
 
 ---
 
