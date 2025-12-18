@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me  
-- 👀 Passionate about **AI, Blockchain, Web & Mobile Development, Cloud, IoT & Embedded Systems**  
+- 👀 Passionate about **AI, Blockchain, & IoT**  
 - 🌱 Documenting my tech journey on **[X (Twitter)](https://twitter.com/CannyBits)** & **[Instagram](https://instagram.com/canny.tz)**
 - 💡 Open to collaboration on **Web, Mobile, and Data Science Projects**
 - 🌍 Checkout my work at **[Canny.tz](https://www.canny.tz)**  
